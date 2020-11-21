@@ -1,0 +1,6 @@
+Description: Pattern with packages for ido configurations
+Name: jolla-configuration-ido
+Requires:
+- patterns-sailfish-device-configuration-ido
+
+Summary: Jolla Configuration ido
